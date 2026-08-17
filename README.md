@@ -1,4 +1,7 @@
 ## Hi there 👋 My name is Harnoor and 🌱 I’m currently learning Github
+![Status](https://img.shields.io/badge/status-learning-blue)
+![GitHub](https://img.shields.io/badge/GitHub-hkasva-black?logo=github)
+![Git](https://img.shields.io/badge/Git-learning-orange?logo=git)
 
 <!--
 **hkasva/hkasva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
